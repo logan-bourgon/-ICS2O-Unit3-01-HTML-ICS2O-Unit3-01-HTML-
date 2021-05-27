@@ -1,0 +1,23 @@
+body {
+  background-color: lightblue;
+}
+h1 {
+  color: darkgreen;
+  text-align: center;
+}
+p {
+  font-family: cursive;
+  font-size: 20px;
+}
+.center {
+  text-align: center;
+  color: red;
+}
+p.center {
+  text-align: center;
+  color: red;
+}
+* {
+  text-align: center;
+  color: blue;
+}
